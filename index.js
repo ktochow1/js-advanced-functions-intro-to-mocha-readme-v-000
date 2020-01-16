@@ -23,5 +23,5 @@ function favoriteIceCream(){
 }
 
 function shouting(){
-  return "";
+  return "I LOVE JAVASCRIPT SOOOOOO MUCH";
 }
