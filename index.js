@@ -1,3 +1,1 @@
-function theTruth(){
-  
-}
+describe('theTruth')
