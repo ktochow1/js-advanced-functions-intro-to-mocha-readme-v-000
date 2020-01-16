@@ -4,3 +4,7 @@ describe('theTruth', () => {
     expect(result).toBe(result);
   });
 });
+
+function theTruth(){
+  return true;
+}
