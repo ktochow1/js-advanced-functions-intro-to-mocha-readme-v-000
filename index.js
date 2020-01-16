@@ -19,5 +19,5 @@ function sayHeyFriend(name){
 }
 
 function favoriteIceCream(){
-  
+  return 'I love mint chocolate chip';
 }
