@@ -25,3 +25,7 @@ function favoriteIceCream(){
 function shouting(){
   return "I LOVE JAVASCRIPT SOOOOOO MUCH";
 }
+
+function roundDown(){
+  
+}
